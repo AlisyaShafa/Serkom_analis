@@ -42,7 +42,7 @@
                                         @csrf
                                         <button
                                             class="relative flex max-w-xs items-center bg-light hover:bg-black-700 hover:text-white"><i
-                                                data-feather="log-out"></i>Log out</button>
+                                                data-feather="user"></i>Log out</button>
                                     </form>
                                 </div>
                             </div>
